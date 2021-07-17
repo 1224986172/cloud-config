@@ -1,4 +1,5 @@
-version: 3
+version: 
+   info: 3
 server:
   port: 1213
 spring:
